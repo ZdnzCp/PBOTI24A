@@ -1,0 +1,6 @@
+Baris 1 dari file1
+Baris 2 dari file1
+Baris 3 dari file1
+Baris 1 dari file2
+Baris 2 dari file2
+Baris 3 dari file2
